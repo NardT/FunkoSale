@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunkoSale", "FunkoSale\FunkoSale.csproj", "{5B691091-EC23-4F62-8575-415D12C3DEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B691091-EC23-4F62-8575-415D12C3DEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B691091-EC23-4F62-8575-415D12C3DEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B691091-EC23-4F62-8575-415D12C3DEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B691091-EC23-4F62-8575-415D12C3DEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E304CB93-8D96-4623-951A-3ECD3D6ABFAC}
+	EndGlobalSection
+EndGlobal
